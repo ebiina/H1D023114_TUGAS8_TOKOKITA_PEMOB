@@ -101,20 +101,22 @@ Dialog peringatan reusable untuk:
 
 
 1. **Login Page**  
- `1login.png`
+## Login Page  
+![Login](1login.png)
 
-2. **Halaman Registrasi**  
- `2register.png`
+## Halaman Registrasi  
+![Register](2register.png)
 
-3. **Daftar Produk**  
- `3produk.png`
+## Daftar Produk  
+![Produk](3produk.png)
 
-4. **Detail Produk**  
- `4detail.png`
+## Detail Produk  
+![Detail](4detail.png)
 
-5. **Tambah Produk**  
- `5tambah.png`
+## Tambah Produk  
+![Tambah](5tambah.png)
 
-6. **Logout (Popup / UI)**  
- `6logout.png`
+## Logout  
+![Logout](6logout.png)
+
 ---
