@@ -99,24 +99,6 @@ Dialog peringatan reusable untuk:
 
 # 📸 Screenshot Aplikasi
 
-
-1. **Login Page**  
-## Login Page  
-![Login](1login.png)
-
-## Halaman Registrasi  
-![Register](2register.png)
-
-## Daftar Produk  
-![Produk](3produk.png)
-
-## Detail Produk  
-![Detail](4detail.png)
-
-## Tambah Produk  
-![Tambah](5tambah.png)
-
-## Logout  
-![Logout](6logout.png)
-
----
+| Halaman Login | Halaman Registrasi | Halaman List Produk | Halaman Detail Produk | Halaman Tambah Produk | Halaman Logout |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Login](1login.png) | ![Registrasi](2register.png) | ![List Produk](3produk.png) | ![Detail Produk](4detail.png) | ![Tambah Produk](5tambah.png) | ![Logout](6logout.png) |
