@@ -95,8 +95,6 @@ Dialog peringatan reusable untuk:
 
 ---
 
----
-
 # 📸 Screenshot Aplikasi
 
 | Halaman Login | Halaman Registrasi | Halaman List Produk | Halaman Detail Produk | Halaman Tambah Produk | Halaman Logout |
